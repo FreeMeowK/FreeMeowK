@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FreeMeowK
+- 👀 I’m interested in software testing! 
+- Тестирование моё хобби и я планирую начать работать в этой сфере
