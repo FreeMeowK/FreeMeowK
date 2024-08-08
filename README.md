@@ -10,6 +10,4 @@ I'm interested in testing!
 
 [Работа с API](http://)
 
-[Тест-кейсы](http://)
 
-[Чек-листы](http://)
